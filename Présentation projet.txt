@@ -1,0 +1,4 @@
+Nous allons travailler avec les méthodes :
+	iOU
+	position barycentre composante connexe par rapport à un ou plusieurs coin de l'image
+		exemple : pixel(1,1)
